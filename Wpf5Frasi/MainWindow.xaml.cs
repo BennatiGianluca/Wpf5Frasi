@@ -25,7 +25,7 @@ namespace Wpf5Frasi
             InitializeComponent();
         }
         string[] a = new string[5];
-        int c = 0;
+        int c= 0;
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
